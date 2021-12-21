@@ -21,11 +21,6 @@ h6 {
   color: white;
   font-family: "Open Sans", sans-serif !important;
 }
-body {
-  background-image: linear-gradient(to bottom, #7cceb1, #7948dc);
-  background-repeat: no-repeat;
-  color: #fff;
-}
 
 br::selection {
   background-color: transparent;
