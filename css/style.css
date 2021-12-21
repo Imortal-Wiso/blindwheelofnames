@@ -29,6 +29,7 @@ br::selection {
   display: block;
   max-width: 50%;
   margin: 0 auto;
+  height: 20rem;
 }
 .row {
   max-width: 1020px;
