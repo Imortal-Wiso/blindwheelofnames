@@ -11,7 +11,7 @@ var log = function log() {
   return console.log(args);
 };
 
-var COLORS = ["#787878", "#303030"];
+var COLORS = ["#787878", "#303030", "#1c1c1c"];
 var PI = Math.PI;
 var TAU = PI * 2;
 
